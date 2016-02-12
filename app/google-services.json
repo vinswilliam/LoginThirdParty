@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_id": "lemonsquash-a7484",
+    "project_number": "51748194730",
+    "name": "lemonsquash"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51748194730:android:6714dfdfaf98c9e9",
+        "client_id": "android:id.co.andr.siuli.facebooklogin",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "id.co.andr.siuli.facebooklogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51748194730-t6sq758cecm2nicjl04u4g3qcsce4tan.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.co.andr.siuli.facebooklogin",
+            "certificate_hash": "2A580546536A28CB50461B716B7795B2C9C5A163"
+          }
+        },
+        {
+          "client_id": "51748194730-lnqk1picvg93icm1v8frall2msg9f1dt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}

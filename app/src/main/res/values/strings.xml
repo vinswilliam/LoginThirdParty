@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FacebookLogin</string>
+
+    <string name="facebook_app_id">1145649325445359</string>
+    <string name="signed_in_fmt">Signed in as: %s</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="auth_id">51748194730-lnqk1picvg93icm1v8frall2msg9f1dt.apps.googleusercontent.com</string>
+</resources>
